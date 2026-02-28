@@ -6,11 +6,6 @@ This project was created as part of a front-end development assignment focused o
 
 ---
 
-## 🚀 Live Demo
-(Add your GitHub Pages / Netlify link here if deployed)
-
----
-
 ## 📌 Project Overview
 
 La Bella Vista is a fictional Italian fine-dining restaurant website designed to:
